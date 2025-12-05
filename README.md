@@ -1,12 +1,64 @@
-## Best full stack ecommerce website
+E-Commerce | Full-Stack MERN Application
 
-* Clone the project from this repo,
-* cd into admin directory
-* make npm install and run npm start
-* From the root directory cd into client
-* make npm install and npm run dev to start
-* Create firebase app and get the credentials
-* Paste the firebase credentials on firebase.ts in client
-* Get stripe credentials and now you area good to go.
+A complete full-stack E-Commerce web application built using the MERN stack.
+Includes product browsing, cart system, authentication, orders, admin dashboard, and Stripe payment integration.
 
-_Happy coding
+🚀 Tech Stack
+Frontend
+
+React
+
+Vite
+
+React Router
+
+Context API / Redux (depending on the project code)
+
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB (Mongoose)
+
+Payments
+
+Stripe API
+
+Other
+
+JWT Authentication
+
+Protected Routes
+
+Admin Panel
+
+⭐ Features
+🛒 User Features
+
+Browse all products
+
+Product detail page
+
+Add to cart
+
+Update/remove cart items
+
+Checkout with Stripe
+
+User login & signup
+
+View order history
+
+🛠️ Admin Features
+
+Add / edit / delete products
+
+Manage categories
+
+Manage orders
+
+Manage users
+
+Dashboard for analytics
